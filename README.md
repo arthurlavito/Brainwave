@@ -55,7 +55,7 @@ Clone this repository and install dependencies:
 
 # clone repo
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone (https://github.com/arthurlavito/Brainwave.git)
 
 # go into project folder
 
@@ -80,9 +80,9 @@ in your browser.
 
 📂 Folder Structure
 src/
-├── assets/ # Images, icons
+├── assets/ # benefits,collaborations,hero,notification,pricing,roadmap,services,socials,svg,etc
 ├── components/ # Reusable components
-├── pages/ # Page components
+├── constants/ # index.js
 ├── App.jsx # Main app component
 └── main.jsx # Entry point
 
